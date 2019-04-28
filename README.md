@@ -1,2 +1,2 @@
 # ANN_Dawson
-This is a leaners stating point in developing artificial neural network.
+This is a leaners starting point in developing artificial neural network.
